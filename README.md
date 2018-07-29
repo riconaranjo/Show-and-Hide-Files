@@ -1,5 +1,9 @@
 # How to Create Terminal Alias to Show/Hide Hidden Files
 
+**Update:** As of macOS Sierra, there is now an easier way to show and hide file names: <kbd>command</kbd> + <kbd>shift</kbd> + <kbd>.</kbd>.
+
+This causes the rest of this article to now be obsolete. If you still want to know how to create terminal aliases this is still a good introduction.
+
 **This is just a transcription of the instructions found online [here](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/), written by Ian Lunn.**
 
 A Terminal alias is a name or shortcut for one or multiple commands. Using an easy to remember alias, we can turn the above four step process into just one.
